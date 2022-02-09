@@ -186,7 +186,7 @@ const Products = (props) => {
     //   return items.map(item => item.instock += newItems.instock)
     // } else 
     setItems([...items, ...newItems]);
-  
+
   };
 
   return (
